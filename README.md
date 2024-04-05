@@ -1,5 +1,5 @@
 ---
-  #Welcome to the Unofficial MagmaNode Hosting Wiki!
+  # Welcome to the Unofficial MagmaNode Hosting Wiki!
   Here you will find quite bit of Information, which might even answer some of your questions!
 ---
 
