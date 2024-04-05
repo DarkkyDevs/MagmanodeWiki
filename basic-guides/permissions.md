@@ -10,10 +10,16 @@ description: >-
 
 ## 1. Giving Permissions Inside the Game
 
-This is Pretty straight forward you can just use the in-game command
+This is Pretty straight forward you can just use the <mark style="color:purple;">in-game</mark> command
 
 ```html
 /op [Username]
+```
+
+Instead if you are in the <mark style="color:purple;">console</mark> you can type
+
+```
+op [Username]
 ```
 
 ## 2. Giving Permissions Inside the Panel
