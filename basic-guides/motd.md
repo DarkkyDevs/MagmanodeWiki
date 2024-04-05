@@ -31,11 +31,11 @@ See [https://www.digminecraft.com/lists/color\_list\_pc.php](https://www.digmine
 For Color codes
 {% endhint %}
 
-## Method 2: Using [MCTools](https://app.gitbook.com/s/XERiXtwQRy94MoOzUORi/mctools-webtool)
+## Method 2: Using [MCTools](https://minecraft.tools/en/motd.php)
 
 This one doesnt need a specific server.
 
-1. Open the [MCTools](https://app.gitbook.com/s/XERiXtwQRy94MoOzUORi/mctools-webtool) Website.
+1. Open the [MCTools](https://minecraft.tools/en/motd.php) Website.
 2. Configure the IN-WEB MOTD Editor
 3. Copy the generated Code.
 
