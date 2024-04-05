@@ -9,7 +9,7 @@ description: >-
 
 To Change Your Servers MOTD you can Use these Two Methods
 
-## #1 Using plugins.
+## Method 1: Using plugins.
 
 {% hint style="danger" %}
 You Need A [Server Version](https://app.gitbook.com/s/w3hA2UolsJ7ATnHK8tbw/server-versions-which-support-plugins.) For This That Supports The Use Of Plugins.
